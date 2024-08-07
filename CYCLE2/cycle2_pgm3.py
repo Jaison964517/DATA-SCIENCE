@@ -1,0 +1,11 @@
+import numpy as np
+uni_array =np.empty(shape=(2,3))
+print("Jaison jacob\n23mca033\ncycle2_pgm3")
+print("uninitialized array:")
+print(uni_array)
+one_arr = np.ones(shape=(2,3))
+print("Array with all elements as 1:")
+print(uni_array)
+ze_array =np.zeros(shape=(2,3))
+print("Array with all elemnt as 0: ")
+print(ze_array)

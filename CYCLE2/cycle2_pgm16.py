@@ -1,0 +1,11 @@
+import numpy as np
+a =np.array([[2,1,-2],[3,0,1],[1,1,-1]])
+b= np.array([-3,5,-2])
+x=np.linalg.solve(a,b)
+print("Jaison Jacob \n23mca033\ncycle2_pgm16")
+print("Matrix A :")
+print(a)
+print("Vector B:")
+print(b)
+print("Solution for X:")
+print(x)
